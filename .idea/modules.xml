@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Example.iml" filepath="$PROJECT_DIR$/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libZaloSDK-payment-release/libZaloSDK-payment-release.iml" filepath="$PROJECT_DIR$/libZaloSDK-payment-release/libZaloSDK-payment-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libZaloSDK-release/libZaloSDK-release.iml" filepath="$PROJECT_DIR$/libZaloSDK-release/libZaloSDK-release.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
     </modules>
   </component>

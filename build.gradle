@@ -21,3 +21,16 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+ext {
+    androidSupportV4 = "com.android.support:support-v4:23.+"
+    compileSdkVersion = 23
+    buildToolsVersion = '25.0.2'
+    targetSdkVersion = 23
+    minSdkVersion = 15
+
+    bintrayRepo= 'ZaloSDK'
+    libGroup = 'com.zing.zalo.zalosdk' //group
+    siteUrl = 'https://g2git.zing.vn/liemvu/zdn-android'
+    gitUrl = 'https://g2git.zing.vn/liemvu/zdn-android.git'
+    issueUrl = 'https://g2git.zing.vn/liemvu/zalosdk-android/issues'
+}
