@@ -1,1 +1,1 @@
-include ':app', ':mylibrary', ':libZaloSDK-payment-release', ':libZaloSDK-release'
+include ':app', ':mylibrary', ':libZaloSDK'

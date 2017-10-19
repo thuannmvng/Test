@@ -31,8 +31,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
     testCompile 'junit:junit:4.12'
-    compile project(':libZaloSDK-payment-release')
-    compile project(':libZaloSDK-release')
 }
 
 //// build a jar with source files
