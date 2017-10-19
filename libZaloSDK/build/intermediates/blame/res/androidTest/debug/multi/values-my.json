@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-my\\values-my.xml",
+        "outputFile": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-my\\values-my.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 7519
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 7683
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 7774
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 7875
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 8180
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 8251
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 8336
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 8466
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 8527
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 8609
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 8641
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 8688
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 8843
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 8894
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 8952
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 9062
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 9119
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 9191
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 9262
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 9331
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 9413
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 9469
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 9522
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 9580
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 9653
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 9736
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 9803
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 9870
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 9955
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 10011
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 10120
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 10204
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 10278
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 10364
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -659,7 +659,7 @@
                     "endOffset": 10433
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 10519
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 10597
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -716,7 +716,7 @@
                     "endOffset": 10669
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 10741
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 10805
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\values-my\\values-my.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,

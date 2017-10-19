@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "D:\\WORKSPACE\\github\\zalosdk-demo\\Example\\libZaloSDK\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "D:\\WORKSPACE\\github\\Example\\libZaloSDK\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
